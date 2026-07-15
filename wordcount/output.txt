@@ -1,0 +1,16 @@
+a	2
+big	1
+data	1
+distributed	1
+from	1
+hadoop	3
+hello	3
+is	2
+mapreduce	3
+model	1
+processing	1
+programming	1
+system	1
+the	1
+with	1
+world	2

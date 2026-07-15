@@ -1,0 +1,5 @@
+Hello World Hello Hadoop
+MapReduce is a programming model
+Hello from the MapReduce world
+Hadoop is a distributed system
+Big Data processing with Hadoop MapReduce
